@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					57F2314C1E354F70002E603A = {
 						CreatedOnToolsVersion = 7.0.1;
+						DevelopmentTeam = SKHVA5VZ52;
 					};
 					57F231651E354F70002E603A = {
 						CreatedOnToolsVersion = 7.0.1;
@@ -413,6 +414,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SKHVA5VZ52;
 				INFOPLIST_FILE = AlertViewAcciones/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = KorbekSA.AlertViewAcciones;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SKHVA5VZ52;
 				INFOPLIST_FILE = AlertViewAcciones/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = KorbekSA.AlertViewAcciones;
@@ -498,6 +501,7 @@
 				57F2317C1E354F70002E603A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		57F2317D1E354F70002E603A /* Build configuration list for PBXNativeTarget "AlertViewAccionesTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +510,7 @@
 				57F2317F1E354F70002E603A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		57F231801E354F70002E603A /* Build configuration list for PBXNativeTarget "AlertViewAccionesUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +519,7 @@
 				57F231821E354F70002E603A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
